@@ -21,3 +21,7 @@ This project is a Windows Forms application developed using Visual Basic .NET. I
 |---|---|---|---|---|
 | **Welcome Form** | **Shortcuts** | **Create** | **Intimation** | **View** |
 
+# Video Walkthrough
+
+[Watch the Video Walkthrough](https://github.com/lgsurith/vb_windows_form/assets/117572209/cca0b7a0-e761-4d00-8fd9-d99f566f9e3e)
+
